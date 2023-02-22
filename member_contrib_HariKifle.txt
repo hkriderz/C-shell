@@ -1,0 +1,9 @@
+Design: Helped with the overall design and contrubuted by advising
+
+Functionality: wrote commands cp, mkdir and rmdir. As well as fixing things on the other commands.
+
+Testing: I tested all the commands a few times with various inputs and communicated with my partner to bug test the ones having issues and/or the ones written by him.
+
+Overall: I wrote some of the methods, helped with testing, writing the report as well creating the makefile and the instructions
+		   
+		   

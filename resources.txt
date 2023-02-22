@@ -1,0 +1,4 @@
+1) https://www.w3schools.com/cpp/
+2) //https://www.tutorialspoint.com/How-can-I-get-the-list-of-files-in-a-directory-using-C-Cplusplus
+3) https://www.geeksforgeeks.org/system-call-in-c/
+4) https://en.cppreference.com/w/cpp/utility/program/system

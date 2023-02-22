@@ -1,0 +1,15 @@
+Instructions
+
+1. Open command line and go to the CS4310_A4 directory.
+2. Once there, type "make" into the command line. This will compile the code from the Makefile and run it.
+3. It will show a brief welcome screen, and then go into a command line. At that point, you can do one of the following commands:
+
+ cd    - Change directory
+ pwd   - Present working directory
+ mkdir - Make Directory
+ rmdir - Removes Directory in current working directory
+ ls    - List all files in directory
+ cp    - Copies files into other files
+ help  - Names all commands that are usable
+ exit  - Leaves shell with a "Goodbye"
+ exec  - runs executables. Must write in full filepath in order for it to work

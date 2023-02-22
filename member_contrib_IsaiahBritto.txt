@@ -1,0 +1,16 @@
+
+Design: Constructed initial layout for running the shell including the basic methods for taking the user input and handing it correctly.
+
+Functionality: Commands:
+		   - cd
+		   - pwd
+		   - ls
+		   - exit
+		   - exec
+		   - help
+
+Testing: I tested my commands a few times with various inputs. I also tested the commands that were done by my partner to make sure everything was looking good.
+
+Overall: I combined the code on my end from what I had and inserted the functionality of the other commands that were supplied by my partner. I also helped write the report.
+		   
+		   
